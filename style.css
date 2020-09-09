@@ -1,0 +1,93 @@
+
+
+.header_area .main-menu .navbar .navbar-brand{
+	padding: 02rem 05rem
+}
+
+.header_area .main-menu .navbar{
+	padding:1rem 10rem;
+}
+
+.header_area .main-menu .nav-item .nav-link{
+ text-transform: uppercase;
+ font-weight: 500;
+ font-size: 14px;
+ padding: 1.5rem;
+ color:var(--title-color);
+}
+
+.header_area .main-menu .navbar-nav .active a{
+	color: #854fee
+}
+.header_area .main-menu .navbar-nav a:hover{
+	color: #854fee
+}
+.title-text1{
+	padding-top: 35px;
+	font-size: 2.5rem
+
+}
+.title-text2{
+	font-size: 3rem
+}
+.title-text3{
+	font-size: 1.5rem
+}
+.img1{
+	height: 90%;
+	width:80%;
+}
+
+.btn1{
+	padding: 4px 20px;
+	background: white;
+	border-color:  var(--primary-color2);
+	color: var(--primary-color2);
+	font-size: 12px;
+	border-radius: 4px;
+	margin-right: 15px;
+
+}
+.btn2{
+	padding: 4px 20px;
+	background: white;
+	border-color:  var(--primary-color2);
+	color: var(--primary-color2);
+	font-size: 12px;
+	border-radius: 4px;
+
+}
+
+.btn1:hover , .btn2:hover{
+	background: var(--primary-color2);
+	color: white;
+	box-shadow:var(--box-shadow);
+}
+.font1{
+	font-size: 18px;
+	font-weight: 400;
+}
+.font2{
+	font-size: 20px;
+	font-weight: 400;
+}
+.bold1{
+	text-decoration: underline;
+}
+.alignment{
+	display: flex;
+	justify-content: flex-end;
+
+}
+
+.style-icon{
+	font-size: 28px;
+	color: gray;
+	text-transform: lowercase!important;
+	
+	
+}
+.footer{
+	height: 90px;
+border-top: 2px solid lightgray;
+}
